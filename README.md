@@ -6,7 +6,7 @@
 ### variable selection with AIC/BIC
 ![image](https://user-images.githubusercontent.com/87890694/225580388-f6c92bf9-696c-4c18-97ae-25bde3b2cfc5.png)
 
-### vif check (colinearlity check)
+### vif check (Multicollinearity check)
 ![image](https://user-images.githubusercontent.com/87890694/225580465-305556b9-0c03-4960-8536-49d5412c849b.png)
 
 ### ROC curve
